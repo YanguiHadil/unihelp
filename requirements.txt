@@ -1,0 +1,18 @@
+# UniHelp Enterprise - Production Dependencies
+
+# Core Framework
+streamlit==1.31.0
+
+# LLM & AI
+groq==0.4.2
+
+# PDF Generation
+reportlab==4.0.9
+
+# Environment & Config
+python-dotenv==1.0.1
+
+# Optional: Enhanced features (uncomment if needed)
+# redis==5.0.1        # For distributed caching
+# psycopg2==2.9.9    # For PostgreSQL storage
+# prometheus-client==0.19.0  # For metrics export
